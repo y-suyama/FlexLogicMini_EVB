@@ -11078,7 +11078,7 @@
 	)
 	(rectangle
 		(start 167.259 230.124)
-		(end 230.124 297.18)
+		(end 242.697 297.18)
 		(stroke
 			(width 0)
 			(type default)
@@ -11671,7 +11671,7 @@
 	)
 	(text "Slave Address\n0x41"
 		(exclude_from_sim no)
-		(at 198.374 275.844 0)
+		(at 204.851 268.478 0)
 		(effects
 			(font
 				(size 1.5 1.5)
@@ -11682,7 +11682,7 @@
 	)
 	(text "J3とJ4の間に配置"
 		(exclude_from_sim no)
-		(at 188.849 279.781 0)
+		(at 195.326 272.415 0)
 		(effects
 			(font
 				(size 1.5 1.5)
@@ -11741,7 +11741,7 @@
 	)
 	(text "Temperature Sensors"
 		(exclude_from_sim no)
-		(at 173.101 246.126 0)
+		(at 179.578 238.76 0)
 		(effects
 			(font
 				(size 3 3)
@@ -12089,7 +12089,7 @@
 		(uuid "35b53701-4e9a-44ca-81e1-0afb73f8baad")
 	)
 	(junction
-		(at 185.928 269.494)
+		(at 192.405 262.128)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "36709b8e-a218-4825-bd79-f8d9570ca8c1")
@@ -12671,7 +12671,7 @@
 		(uuid "9c3dca4c-42c7-4456-9054-82f4ac49d79b")
 	)
 	(junction
-		(at 207.264 269.494)
+		(at 213.741 262.128)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9d61e3e4-554c-4e2f-8e23-e606d95fee34")
@@ -13366,7 +13366,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.486 259.207) (xy 209.423 259.207)
+			(xy 211.963 251.841) (xy 215.9 251.841)
 		)
 		(stroke
 			(width 0)
@@ -13756,7 +13756,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.168 249.936) (xy 201.168 251.587)
+			(xy 207.645 242.57) (xy 207.645 244.221)
 		)
 		(stroke
 			(width 0)
@@ -14176,7 +14176,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.706 263.017) (xy 185.928 263.017)
+			(xy 194.183 255.651) (xy 192.405 255.651)
 		)
 		(stroke
 			(width 0)
@@ -14203,6 +14203,16 @@
 			(type default)
 		)
 		(uuid "1ac384b9-faff-4754-99e9-1c04a821dacd")
+	)
+	(wire
+		(pts
+			(xy 221.996 287.02) (xy 230.124 287.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1ae850f7-085a-433e-9452-86c3b3f00d75")
 	)
 	(wire
 		(pts
@@ -14286,13 +14296,23 @@
 	)
 	(wire
 		(pts
-			(xy 185.928 269.494) (xy 185.928 270.637)
+			(xy 192.405 262.128) (xy 192.405 263.271)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "1e65a5ed-8e51-433a-8481-30b9bab3a420")
+	)
+	(wire
+		(pts
+			(xy 208.661 277.368) (xy 216.789 277.368)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1eadbdde-b486-48cc-9dc7-032238c45dc4")
 	)
 	(wire
 		(pts
@@ -14313,6 +14333,16 @@
 			(type default)
 		)
 		(uuid "1fbc4905-2983-4a40-85f4-7bb68cb8bc2c")
+	)
+	(wire
+		(pts
+			(xy 221.869 277.368) (xy 229.997 277.368)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1fd821ef-b2b5-4a96-918b-298499c33b24")
 	)
 	(wire
 		(pts
@@ -14726,7 +14756,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.928 269.494) (xy 193.929 269.494)
+			(xy 192.405 262.128) (xy 200.406 262.128)
 		)
 		(stroke
 			(width 0)
@@ -15056,7 +15086,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.928 263.017) (xy 185.928 269.494)
+			(xy 192.405 255.651) (xy 192.405 262.128)
 		)
 		(stroke
 			(width 0)
@@ -15353,6 +15383,16 @@
 			(type default)
 		)
 		(uuid "3d7cc893-6f11-49fe-b340-93b590654e91")
+	)
+	(wire
+		(pts
+			(xy 230.124 288.798) (xy 230.124 287.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d8174b3-f311-4a67-b4d0-c1f52f94ac75")
 	)
 	(wire
 		(pts
@@ -15886,7 +15926,7 @@
 	)
 	(wire
 		(pts
-			(xy 183.769 259.207) (xy 187.706 259.207)
+			(xy 190.246 251.841) (xy 194.183 251.841)
 		)
 		(stroke
 			(width 0)
@@ -16356,6 +16396,16 @@
 	)
 	(wire
 		(pts
+			(xy 178.689 279.146) (xy 178.689 277.368)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "594d47c1-240b-4c13-9ee3-e5bfe1f6d28c")
+	)
+	(wire
+		(pts
 			(xy 205.359 35.687) (xy 207.899 35.687)
 		)
 		(stroke
@@ -16473,6 +16523,16 @@
 			(type default)
 		)
 		(uuid "5c25c080-0969-48f2-b15b-4d5b40ef197b")
+	)
+	(wire
+		(pts
+			(xy 178.689 277.368) (xy 185.42 277.368)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ca31800-3863-4f28-89a1-30095b7dd665")
 	)
 	(wire
 		(pts
@@ -16703,6 +16763,16 @@
 			(type default)
 		)
 		(uuid "64be7ee8-8c0d-43f9-9db1-23bfb0d5b135")
+	)
+	(wire
+		(pts
+			(xy 208.788 287.02) (xy 216.916 287.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64c01575-f380-4459-a59e-d8ce54c8fb9f")
 	)
 	(wire
 		(pts
@@ -17266,7 +17336,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.264 263.017) (xy 207.264 269.494)
+			(xy 213.741 255.651) (xy 213.741 262.128)
 		)
 		(stroke
 			(width 0)
@@ -17636,7 +17706,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.264 269.494) (xy 199.009 269.494)
+			(xy 213.741 262.128) (xy 205.486 262.128)
 		)
 		(stroke
 			(width 0)
@@ -17783,6 +17853,16 @@
 			(type default)
 		)
 		(uuid "82986746-d31c-46e0-8de5-a45facf35a64")
+	)
+	(wire
+		(pts
+			(xy 229.997 279.146) (xy 229.997 277.368)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8298af60-8ae8-4dd6-b7b2-2282cdf086f5")
 	)
 	(wire
 		(pts
@@ -18113,6 +18193,16 @@
 			(type default)
 		)
 		(uuid "8ada2837-faf7-4872-8140-a28f13b1431f")
+	)
+	(wire
+		(pts
+			(xy 208.661 279.146) (xy 208.661 277.368)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ae7296c-5018-4423-9f72-e03817c3825a")
 	)
 	(wire
 		(pts
@@ -18686,6 +18776,16 @@
 	)
 	(wire
 		(pts
+			(xy 193.04 277.368) (xy 200.025 277.368)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "99176f0a-1c0f-4427-8a9d-09195d1dff12")
+	)
+	(wire
+		(pts
 			(xy 417.576 215.9) (xy 422.148 215.9)
 		)
 		(stroke
@@ -18716,7 +18816,7 @@
 	)
 	(wire
 		(pts
-			(xy 196.596 249.936) (xy 201.168 249.936)
+			(xy 203.073 242.57) (xy 207.645 242.57)
 		)
 		(stroke
 			(width 0)
@@ -19046,7 +19146,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.264 263.017) (xy 205.486 263.017)
+			(xy 213.741 255.651) (xy 211.963 255.651)
 		)
 		(stroke
 			(width 0)
@@ -19056,7 +19156,7 @@
 	)
 	(wire
 		(pts
-			(xy 210.693 269.494) (xy 207.264 269.494)
+			(xy 217.17 262.128) (xy 213.741 262.128)
 		)
 		(stroke
 			(width 0)
@@ -19316,7 +19416,7 @@
 	)
 	(wire
 		(pts
-			(xy 196.596 255.397) (xy 196.596 249.936)
+			(xy 203.073 248.031) (xy 203.073 242.57)
 		)
 		(stroke
 			(width 0)
@@ -19336,7 +19436,7 @@
 	)
 	(wire
 		(pts
-			(xy 210.693 267.97) (xy 210.693 269.494)
+			(xy 217.17 260.604) (xy 217.17 262.128)
 		)
 		(stroke
 			(width 0)
@@ -21596,6 +21696,16 @@
 	)
 	(wire
 		(pts
+			(xy 200.025 279.146) (xy 200.025 277.368)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e405a151-b82f-4d20-b563-5f1ed4cb2877")
+	)
+	(wire
+		(pts
 			(xy 282.829 270.891) (xy 289.306 270.891)
 		)
 		(stroke
@@ -22453,6 +22563,16 @@
 			(type default)
 		)
 		(uuid "f7b2427a-86a2-412c-9d43-12d9e426d5bd")
+	)
+	(wire
+		(pts
+			(xy 208.788 288.798) (xy 208.788 287.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f926c2a9-667e-470a-a3fd-40c4dd19b5eb")
 	)
 	(wire
 		(pts
@@ -28678,7 +28798,7 @@
 	)
 	(global_label "I2CSCL_ADC"
 		(shape bidirectional)
-		(at 183.769 259.207 180)
+		(at 190.246 251.841 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -28688,7 +28808,7 @@
 		)
 		(uuid "1b64ac81-5da1-4693-af9a-71c7428ccc57")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 168.4844 259.207 0)
+			(at 174.9614 251.841 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29254,7 +29374,7 @@
 	)
 	(global_label "I2CSDA_ADC"
 		(shape bidirectional)
-		(at 209.423 259.207 0)
+		(at 215.9 251.841 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -29264,7 +29384,7 @@
 		)
 		(uuid "609c803e-1698-4714-9478-66a061967f45")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 224.7681 259.207 0)
+			(at 231.2451 251.841 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30847,7 +30967,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "02f99353-47fa-4d6f-9395-c030dec245b8")
-		(property "Reference" "#PWR0108"
+		(property "Reference" "#PWR0114"
 			(at 436.499 62.357 0)
 			(hide yes)
 			(show_name no)
@@ -30907,7 +31027,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR0108")
+					(reference "#PWR0114")
 					(unit 1)
 				)
 			)
@@ -31222,7 +31342,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "07b8698f-51dd-4875-83ff-07839a003188")
-		(property "Reference" "#PWR073"
+		(property "Reference" "#PWR079"
 			(at 257.302 70.866 0)
 			(hide yes)
 			(show_name no)
@@ -31282,7 +31402,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR073")
+					(reference "#PWR079")
 					(unit 1)
 				)
 			)
@@ -31299,7 +31419,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "081c059b-3142-4998-af2f-99de8d6cab2e")
-		(property "Reference" "#PWR093"
+		(property "Reference" "#PWR099"
 			(at 320.675 137.541 0)
 			(hide yes)
 			(show_name no)
@@ -31359,7 +31479,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR093")
+					(reference "#PWR099")
 					(unit 1)
 				)
 			)
@@ -31376,7 +31496,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0873fc48-3b51-4869-a4ce-ac9e08cf3a69")
-		(property "Reference" "#PWR0110"
+		(property "Reference" "#PWR0116"
 			(at 447.675 74.549 0)
 			(hide yes)
 			(show_name no)
@@ -31436,7 +31556,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR0110")
+					(reference "#PWR0116")
 					(unit 1)
 				)
 			)
@@ -31453,7 +31573,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "08fa1f84-cefa-4bcc-a557-2541632a9e73")
-		(property "Reference" "C67"
+		(property "Reference" "C69"
 			(at 437.896 109.093 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31549,7 +31669,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C67")
+					(reference "C69")
 					(unit 1)
 				)
 			)
@@ -31566,7 +31686,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "09aea8aa-ba9d-4dfd-bd11-1cc263d70a59")
-		(property "Reference" "#PWR065"
+		(property "Reference" "#PWR069"
 			(at 227.711 373.253 0)
 			(hide yes)
 			(show_name no)
@@ -31632,7 +31752,7 @@
 			)
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR065")
+					(reference "#PWR069")
 					(unit 1)
 				)
 			)
@@ -31649,7 +31769,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0b3e2072-ed5d-45ff-8ad1-58bcbb0e01cc")
-		(property "Reference" "C76"
+		(property "Reference" "C78"
 			(at 533.654 109.347 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31745,7 +31865,84 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C76")
+					(reference "C78")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 208.661 279.146 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "0c86e8fc-8123-4070-ba7d-00dbf920cf47")
+		(property "Reference" "#PWR063"
+			(at 208.661 285.496 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TMPGND"
+			(at 208.661 282.575 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 208.661 279.146 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 208.661 279.146 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 208.661 279.146 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4728431e-5a18-4500-89e5-bff169737d57")
+		)
+		(instances
+			(project "FlexLogicMini_EVB"
+				(path "/483d0913-2604-458a-955b-5458dee34109"
+					(reference "#PWR063")
 					(unit 1)
 				)
 			)
@@ -31763,7 +31960,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0cb725b4-28a2-4882-89cb-2a6b2f1d259b")
-		(property "Reference" "#PWR080"
+		(property "Reference" "#PWR086"
 			(at 266.192 78.105 0)
 			(hide yes)
 			(show_name no)
@@ -31823,7 +32020,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR080")
+					(reference "#PWR086")
 					(unit 1)
 				)
 			)
@@ -31840,7 +32037,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0cf8b298-c238-4bd3-9e2a-98b243da25ff")
-		(property "Reference" "#PWR088"
+		(property "Reference" "#PWR094"
 			(at 289.306 278.003 0)
 			(hide yes)
 			(show_name no)
@@ -31906,7 +32103,7 @@
 			)
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR088")
+					(reference "#PWR094")
 					(unit 1)
 				)
 			)
@@ -32263,7 +32460,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 201.168 251.587 0)
+		(at 207.645 244.221 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -32272,8 +32469,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "11d7c8d5-1a7b-4096-8911-3146c01d7976")
-		(property "Reference" "#PWR058"
-			(at 201.168 257.937 0)
+		(property "Reference" "#PWR062"
+			(at 207.645 250.571 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32283,8 +32480,8 @@
 				)
 			)
 		)
-		(property "Value" "GND"
-			(at 201.168 255.016 0)
+		(property "Value" "TMPGND"
+			(at 207.645 247.65 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -32294,7 +32491,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 201.168 251.587 0)
+			(at 207.645 244.221 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32305,7 +32502,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 201.168 251.587 0)
+			(at 207.645 244.221 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32316,7 +32513,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 201.168 251.587 0)
+			(at 207.645 244.221 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32332,7 +32529,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR058")
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
@@ -32572,7 +32769,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "15469a24-7894-45de-9a60-6acdb6ea3bd1")
-		(property "Reference" "C41"
+		(property "Reference" "C43"
 			(at 253.238 58.928 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32668,7 +32865,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C41")
+					(reference "C43")
 					(unit 1)
 				)
 			)
@@ -32685,7 +32882,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "154ccdb6-80da-405d-bdad-d2e6d6d4a155")
-		(property "Reference" "R47"
+		(property "Reference" "R48"
 			(at 428.498 34.798 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32781,7 +32978,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "R47")
+					(reference "R48")
 					(unit 1)
 				)
 			)
@@ -33138,7 +33335,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "194717e9-69f2-4e08-b51f-d95d4970eb69")
-		(property "Reference" "#PWR084"
+		(property "Reference" "#PWR090"
 			(at 272.669 306.07 0)
 			(hide yes)
 			(show_name no)
@@ -33198,7 +33395,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR084")
+					(reference "#PWR090")
 					(unit 1)
 				)
 			)
@@ -33329,7 +33526,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1a393aa3-60b8-48ef-9355-2e7d2ea4f63b")
-		(property "Reference" "R28"
+		(property "Reference" "R29"
 			(at 205.486 47.879 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33425,7 +33622,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "R28")
+					(reference "R29")
 					(unit 1)
 				)
 			)
@@ -33442,7 +33639,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1ba034f6-271e-4f8a-bf0f-c54b3b0fd582")
-		(property "Reference" "C40"
+		(property "Reference" "C42"
 			(at 251.46 291.338 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33538,7 +33735,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C40")
+					(reference "C42")
 					(unit 1)
 				)
 			)
@@ -33632,7 +33829,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1c772314-462a-412a-8659-00c58a16e26b")
-		(property "Reference" "#PWR096"
+		(property "Reference" "#PWR0102"
 			(at 353.568 172.085 0)
 			(hide yes)
 			(show_name no)
@@ -33698,7 +33895,7 @@
 			)
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR096")
+					(reference "#PWR0102")
 					(unit 1)
 				)
 			)
@@ -33715,7 +33912,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1d67f810-34aa-4fd3-9c21-9b0ea7a58196")
-		(property "Reference" "C44"
+		(property "Reference" "C46"
 			(at 256.921 151.384 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33811,7 +34008,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C44")
+					(reference "C46")
 					(unit 1)
 				)
 			)
@@ -33828,7 +34025,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1e317708-f48d-42b2-bc19-e49e554264ac")
-		(property "Reference" "#PWR092"
+		(property "Reference" "#PWR098"
 			(at 311.785 263.906 0)
 			(hide yes)
 			(show_name no)
@@ -33894,7 +34091,7 @@
 			)
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR092")
+					(reference "#PWR098")
 					(unit 1)
 				)
 			)
@@ -33911,7 +34108,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1f8a5998-3a36-476e-b2f5-d318fa97e564")
-		(property "Reference" "#PWR0114"
+		(property "Reference" "#PWR0120"
 			(at 481.457 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -33977,7 +34174,7 @@
 			)
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR0114")
+					(reference "#PWR0120")
 					(unit 1)
 				)
 			)
@@ -34108,7 +34305,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "20337d62-4f60-4e4b-8ec3-46ac9c390dd0")
-		(property "Reference" "#PWR068"
+		(property "Reference" "#PWR074"
 			(at 236.601 165.354 0)
 			(hide yes)
 			(show_name no)
@@ -34168,7 +34365,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR068")
+					(reference "#PWR074")
 					(unit 1)
 				)
 			)
@@ -34185,7 +34382,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "22278924-46e1-45f7-bda2-9579a22da148")
-		(property "Reference" "C62"
+		(property "Reference" "C64"
 			(at 391.795 46.609 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34281,7 +34478,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C62")
+					(reference "C64")
 					(unit 1)
 				)
 			)
@@ -34524,7 +34721,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "257d9c50-42a8-4690-8f84-b6613a956e7a")
-		(property "Reference" "#PWR076"
+		(property "Reference" "#PWR082"
 			(at 263.144 306.07 0)
 			(hide yes)
 			(show_name no)
@@ -34584,7 +34781,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR076")
+					(reference "#PWR082")
 					(unit 1)
 				)
 			)
@@ -34602,7 +34799,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "27146408-055b-4079-87ae-5b3ebc534a09")
-		(property "Reference" "C33"
+		(property "Reference" "C35"
 			(at 228.346 373.253 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34698,7 +34895,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C33")
+					(reference "C35")
 					(unit 1)
 				)
 			)
@@ -34792,7 +34989,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2a288777-a8e8-49fe-bf03-fad97d74ddfe")
-		(property "Reference" "C65"
+		(property "Reference" "C67"
 			(at 426.085 109.22 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34888,7 +35085,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C65")
+					(reference "C67")
 					(unit 1)
 				)
 			)
@@ -34983,7 +35180,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2c5a2051-d98b-4ccb-9f9a-71d92f8a14b4")
-		(property "Reference" "#PWR071"
+		(property "Reference" "#PWR077"
 			(at 255.651 384.683 0)
 			(hide yes)
 			(show_name no)
@@ -35049,7 +35246,7 @@
 			)
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR071")
+					(reference "#PWR077")
 					(unit 1)
 				)
 			)
@@ -35176,7 +35373,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "311c5e8e-4324-49a8-a93c-751eb8fc7b47")
-		(property "Reference" "C43"
+		(property "Reference" "C45"
 			(at 253.238 99.822 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35272,7 +35469,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C43")
+					(reference "C45")
 					(unit 1)
 				)
 			)
@@ -35289,7 +35486,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3154a975-6948-4826-ac84-d05e4118b499")
-		(property "Reference" "#PWR056"
+		(property "Reference" "#PWR057"
 			(at 193.929 220.726 0)
 			(hide yes)
 			(show_name no)
@@ -35349,7 +35546,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR056")
+					(reference "#PWR057")
 					(unit 1)
 				)
 			)
@@ -35658,7 +35855,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "32f734c2-e6d7-4f89-9a73-07939d6affdc")
-		(property "Reference" "R29"
+		(property "Reference" "R30"
 			(at 210.693 39.497 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35754,7 +35951,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "R29")
+					(reference "R30")
 					(unit 1)
 				)
 			)
@@ -35771,7 +35968,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "332a8cf2-8de1-4835-8af7-5a7182d31bc3")
-		(property "Reference" "C72"
+		(property "Reference" "C74"
 			(at 506.222 109.093 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35867,7 +36064,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C72")
+					(reference "C74")
 					(unit 1)
 				)
 			)
@@ -35884,7 +36081,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "33c98eb8-9e77-4cdc-90a6-1140990349ed")
-		(property "Reference" "#PWR099"
+		(property "Reference" "#PWR0105"
 			(at 378.46 130.175 0)
 			(hide yes)
 			(show_name no)
@@ -35944,7 +36141,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR099")
+					(reference "#PWR0105")
 					(unit 1)
 				)
 			)
@@ -36115,7 +36312,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "35a7da7c-3762-4e4c-9d95-43fa0fe79bd4")
-		(property "Reference" "#PWR082"
+		(property "Reference" "#PWR088"
 			(at 267.843 169.418 0)
 			(hide yes)
 			(show_name no)
@@ -36175,7 +36372,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR082")
+					(reference "#PWR088")
 					(unit 1)
 				)
 			)
@@ -36192,7 +36389,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "35ad3268-7c79-48b6-a323-ff9497d8d4ef")
-		(property "Reference" "R40"
+		(property "Reference" "R41"
 			(at 266.192 350.647 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36288,7 +36485,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "R40")
+					(reference "R41")
 					(unit 1)
 				)
 			)
@@ -36305,7 +36502,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "35e99231-6562-4096-89e5-df2626360f5e")
-		(property "Reference" "#PWR0112"
+		(property "Reference" "#PWR0118"
 			(at 457.581 223.52 0)
 			(hide yes)
 			(show_name no)
@@ -36371,7 +36568,7 @@
 			)
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR0112")
+					(reference "#PWR0118")
 					(unit 1)
 				)
 			)
@@ -36388,7 +36585,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "369b4910-5b87-40f2-b726-530fa206b7a5")
-		(property "Reference" "C32"
+		(property "Reference" "C34"
 			(at 223.52 351.028 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36484,7 +36681,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C32")
+					(reference "C34")
 					(unit 1)
 				)
 			)
@@ -36501,7 +36698,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "37d8b28d-dfa7-4f12-9295-f2a624d6e949")
-		(property "Reference" "#PWR057"
+		(property "Reference" "#PWR058"
 			(at 195.199 52.959 0)
 			(hide yes)
 			(show_name no)
@@ -36567,7 +36764,7 @@
 			)
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR057")
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -36667,7 +36864,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3984c704-c5f3-4017-924e-91fe2ec66c26")
-		(property "Reference" "C52"
+		(property "Reference" "C54"
 			(at 275.463 151.13 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36763,7 +36960,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C52")
+					(reference "C54")
 					(unit 1)
 				)
 			)
@@ -36780,7 +36977,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3a242a6a-9fd3-43ce-8969-3718e78c81c3")
-		(property "Reference" "#PWR0104"
+		(property "Reference" "#PWR0110"
 			(at 411.48 35.814 0)
 			(hide yes)
 			(show_name no)
@@ -36841,7 +37038,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR0104")
+					(reference "#PWR0110")
 					(unit 1)
 				)
 			)
@@ -36858,7 +37055,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3ad912ce-2bbe-4ea6-9e53-7d975541b818")
-		(property "Reference" "R44"
+		(property "Reference" "R45"
 			(at 410.083 214.884 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36954,7 +37151,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "R44")
+					(reference "R45")
 					(unit 1)
 				)
 			)
@@ -36972,7 +37169,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3b551a1e-fc08-417a-9df1-a69b89f41055")
-		(property "Reference" "#PWR0120"
+		(property "Reference" "#PWR0126"
 			(at 543.56 169.926 0)
 			(hide yes)
 			(show_name no)
@@ -37032,7 +37229,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR0120")
+					(reference "#PWR0126")
 					(unit 1)
 				)
 			)
@@ -37240,7 +37437,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3d41b109-046e-40f0-94a6-c55b31dfa554")
-		(property "Reference" "#PWR0109"
+		(property "Reference" "#PWR0115"
 			(at 438.15 122.301 0)
 			(hide yes)
 			(show_name no)
@@ -37306,7 +37503,7 @@
 			)
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR0109")
+					(reference "#PWR0115")
 					(unit 1)
 				)
 			)
@@ -37323,7 +37520,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3f28efc7-e65e-4677-99ea-684d5d68428f")
-		(property "Reference" "C38"
+		(property "Reference" "C40"
 			(at 250.698 151.384 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37419,7 +37616,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C38")
+					(reference "C40")
 					(unit 1)
 				)
 			)
@@ -37539,7 +37736,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3f5037a4-aa70-45bb-89e4-8567e0acbec3")
-		(property "Reference" "#PWR0100"
+		(property "Reference" "#PWR0106"
 			(at 389.89 228.981 0)
 			(hide yes)
 			(show_name no)
@@ -37599,7 +37796,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR0100")
+					(reference "#PWR0106")
 					(unit 1)
 				)
 			)
@@ -37616,7 +37813,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3f6cfbc4-4771-4389-9e51-9a3d39dba15e")
-		(property "Reference" "C47"
+		(property "Reference" "C49"
 			(at 263.144 151.257 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37712,7 +37909,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C47")
+					(reference "C49")
 					(unit 1)
 				)
 			)
@@ -37729,7 +37926,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "406f23dd-64d6-42d0-ae76-548ca7a58b39")
-		(property "Reference" "#PWR0116"
+		(property "Reference" "#PWR0122"
 			(at 498.856 125.095 0)
 			(hide yes)
 			(show_name no)
@@ -37789,7 +37986,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR0116")
+					(reference "#PWR0122")
 					(unit 1)
 				)
 			)
@@ -37806,7 +38003,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "41e74abc-df38-40e0-990e-53f0ffb64620")
-		(property "Reference" "C42"
+		(property "Reference" "C44"
 			(at 253.238 79.756 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37902,7 +38099,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C42")
+					(reference "C44")
 					(unit 1)
 				)
 			)
@@ -37919,7 +38116,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4209fe70-e38a-440e-ae0e-01852635b555")
-		(property "Reference" "R27"
+		(property "Reference" "R28"
 			(at 188.468 207.264 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38015,7 +38212,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "R27")
+					(reference "R28")
 					(unit 1)
 				)
 			)
@@ -38032,7 +38229,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "425ce0a4-5f3c-4332-a02c-05b5ae911b6a")
-		(property "Reference" "R55"
+		(property "Reference" "R56"
 			(at 523.494 35.687 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38128,7 +38325,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "R55")
+					(reference "R56")
 					(unit 1)
 				)
 			)
@@ -38527,7 +38724,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "45b9c9b4-264e-4cf3-9224-919cdeaa8c93")
-		(property "Reference" "C46"
+		(property "Reference" "C48"
 			(at 258.826 256.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38623,7 +38820,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C46")
+					(reference "C48")
 					(unit 1)
 				)
 			)
@@ -38827,7 +39024,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "488ecdc7-dcc7-413a-b007-ffb39a492909")
-		(property "Reference" "C58"
+		(property "Reference" "C60"
 			(at 332.867 264.541 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38923,7 +39120,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C58")
+					(reference "C60")
 					(unit 1)
 				)
 			)
@@ -39017,7 +39214,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4ab260db-a1a1-4d9a-aac2-45b642dc3c80")
-		(property "Reference" "C66"
+		(property "Reference" "C68"
 			(at 432.054 49.149 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39113,7 +39310,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C66")
+					(reference "C68")
 					(unit 1)
 				)
 			)
@@ -39309,7 +39506,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4ca1c7e7-695f-482d-84c8-f0f08e10645d")
-		(property "Reference" "#PWR0113"
+		(property "Reference" "#PWR0119"
 			(at 481.457 109.474 0)
 			(hide yes)
 			(show_name no)
@@ -39369,7 +39566,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR0113")
+					(reference "#PWR0119")
 					(unit 1)
 				)
 			)
@@ -39387,7 +39584,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4d2651df-be4d-43cd-a207-468254834c6b")
-		(property "Reference" "#PWR0119"
+		(property "Reference" "#PWR0125"
 			(at 536.702 151.003 0)
 			(hide yes)
 			(show_name no)
@@ -39447,7 +39644,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR0119")
+					(reference "#PWR0125")
 					(unit 1)
 				)
 			)
@@ -39465,7 +39662,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4d4641a3-429b-4af3-bcf5-c05650491b06")
-		(property "Reference" "C60"
+		(property "Reference" "C62"
 			(at 345.567 264.541 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39561,7 +39758,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C60")
+					(reference "C62")
 					(unit 1)
 				)
 			)
@@ -39655,7 +39852,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4ee08ea9-a691-42d0-a91c-b48e412215b8")
-		(property "Reference" "R51"
+		(property "Reference" "R52"
 			(at 500.888 125.603 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39751,7 +39948,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "R51")
+					(reference "R52")
 					(unit 1)
 				)
 			)
@@ -39769,7 +39966,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4f373bdc-5d39-4321-b3f7-024f92e2ff2e")
-		(property "Reference" "R53"
+		(property "Reference" "R54"
 			(at 524.129 150.749 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39865,7 +40062,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "R53")
+					(reference "R54")
 					(unit 1)
 				)
 			)
@@ -40058,6 +40255,163 @@
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
 					(reference "IC2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 219.456 287.02 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "5097a14b-04d6-4139-a9a1-208072f05cda")
+		(property "Reference" "C32"
+			(at 213.233 285.623 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1000pF"
+			(at 211.201 288.544 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+			(at 219.456 287.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 219.456 287.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 219.456 287.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "耐圧" "50V"
+			(at 222.631 288.544 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB" "C5142559"
+			(at 219.456 287.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "TCC0201X7R102K500ZT"
+			(at 219.456 287.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 219.456 287.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 219.456 287.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 219.456 287.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 219.456 287.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "bc3b28c0-0561-472d-bec3-c3d593ae4e8b")
+		)
+		(pin "2"
+			(uuid "0e01dd9c-3a5c-4693-a2cb-d9cfc7df29ad")
+		)
+		(instances
+			(project "FlexLogicMini_EVB"
+				(path "/483d0913-2604-458a-955b-5458dee34109"
+					(reference "C32")
 					(unit 1)
 				)
 			)
@@ -40342,7 +40696,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "55ee3753-ecc5-40c4-a2dd-2af2c25f324e")
-		(property "Reference" "C71"
+		(property "Reference" "C73"
 			(at 499.237 109.093 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40438,7 +40792,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C71")
+					(reference "C73")
 					(unit 1)
 				)
 			)
@@ -40517,6 +40871,97 @@
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
 					(reference "TP1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 189.23 277.368 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "56baae2d-18ba-4dfe-adf8-bce83ed77681")
+		(property "Reference" "R26"
+			(at 182.372 276.225 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0"
+			(at 188.468 277.368 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+			(at 189.23 275.59 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 189.23 277.368 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "0201WMF0000TEE"
+			(at 189.23 277.368 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "耐電力" "1/20W"
+			(at 195.326 278.511 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "9c03e22a-4c00-41de-9e5f-32dd8dd6a03a")
+		)
+		(pin "2"
+			(uuid "00b14dde-1a99-4563-8b03-990be30d5186")
+		)
+		(instances
+			(project "FlexLogicMini_EVB"
+				(path "/483d0913-2604-458a-955b-5458dee34109"
+					(reference "R26")
 					(unit 1)
 				)
 			)
@@ -40615,7 +41060,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 210.693 267.97 0)
+		(at 217.17 260.604 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -40625,8 +41070,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5805210f-8c5c-4c34-b061-acfc52c084a4")
-		(property "Reference" "#PWR061"
-			(at 210.693 271.78 0)
+		(property "Reference" "#PWR066"
+			(at 217.17 264.414 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40637,7 +41082,7 @@
 			)
 		)
 		(property "Value" "+3.3V_ADC"
-			(at 213.868 264.414 0)
+			(at 220.345 257.048 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -40647,7 +41092,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 210.693 267.97 0)
+			(at 217.17 260.604 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40658,7 +41103,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 210.693 267.97 0)
+			(at 217.17 260.604 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40669,7 +41114,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 210.693 267.97 0)
+			(at 217.17 260.604 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40685,7 +41130,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR061")
+					(reference "#PWR066")
 					(unit 1)
 				)
 			)
@@ -41101,7 +41546,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5ae8d8f8-760b-4f14-8ca6-2d66fca75b60")
-		(property "Reference" "R54"
+		(property "Reference" "R55"
 			(at 524.256 155.829 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41197,7 +41642,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "R54")
+					(reference "R55")
 					(unit 1)
 				)
 			)
@@ -41404,7 +41849,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5cdb39e2-eb47-44d1-b0d5-4b24fbcdecce")
-		(property "Reference" "C54"
+		(property "Reference" "C56"
 			(at 284.861 264.795 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41500,7 +41945,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C54")
+					(reference "C56")
 					(unit 1)
 				)
 			)
@@ -41710,7 +42155,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6073efd2-b74a-44b6-88e1-c01030a7c6a9")
-		(property "Reference" "#PWR063"
+		(property "Reference" "#PWR067"
 			(at 225.425 38.735 0)
 			(hide yes)
 			(show_name no)
@@ -41776,7 +42221,7 @@
 			)
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR063")
+					(reference "#PWR067")
 					(unit 1)
 				)
 			)
@@ -41984,7 +42429,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "628bbcb0-413e-439e-a840-b6c5e5804b65")
-		(property "Reference" "C55"
+		(property "Reference" "C57"
 			(at 320.421 137.033 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42080,7 +42525,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C55")
+					(reference "C57")
 					(unit 1)
 				)
 			)
@@ -42097,7 +42542,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6441c343-f933-47b8-afc5-123653e689da")
-		(property "Reference" "R33"
+		(property "Reference" "R34"
 			(at 245.745 170.815 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42193,7 +42638,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "R33")
+					(reference "R34")
 					(unit 1)
 				)
 			)
@@ -42872,7 +43317,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "686865ef-88d9-48f1-b290-ccfb36af09f6")
-		(property "Reference" "#PWR083"
+		(property "Reference" "#PWR089"
 			(at 272.669 284.988 0)
 			(hide yes)
 			(show_name no)
@@ -42932,7 +43377,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR083")
+					(reference "#PWR089")
 					(unit 1)
 				)
 			)
@@ -42949,7 +43394,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "68b572d6-9523-46d1-8d9f-ed29f0d2d202")
-		(property "Reference" "R49"
+		(property "Reference" "R50"
 			(at 492.887 186.309 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -43045,7 +43490,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "R49")
+					(reference "R50")
 					(unit 1)
 				)
 			)
@@ -43062,7 +43507,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "68c39497-4544-49bb-8a75-0cb29713005b")
-		(property "Reference" "R45"
+		(property "Reference" "R46"
 			(at 413.131 186.309 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -43158,7 +43603,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "R45")
+					(reference "R46")
 					(unit 1)
 				)
 			)
@@ -43248,6 +43693,83 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 230.124 288.798 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "6a269f4b-cf59-462d-9045-8dd27dd3e951")
+		(property "Reference" "#PWR073"
+			(at 230.124 295.148 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 230.124 292.608 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 230.124 288.798 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 230.124 288.798 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 230.124 288.798 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "afb30ce7-c905-47f7-9f00-28c308361bd7")
+		)
+		(instances
+			(project "FlexLogicMini_EVB"
+				(path "/483d0913-2604-458a-955b-5458dee34109"
+					(reference "#PWR073")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 417.068 164.465 90)
 		(unit 1)
@@ -43258,7 +43780,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6b04d378-af38-4cd6-b419-47e03db3412c")
-		(property "Reference" "R46"
+		(property "Reference" "R47"
 			(at 413.385 163.449 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -43354,7 +43876,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "R46")
+					(reference "R47")
 					(unit 1)
 				)
 			)
@@ -43484,7 +44006,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6b6a848a-def0-466e-b6b1-ff85e6bde4fd")
-		(property "Reference" "#PWR091"
+		(property "Reference" "#PWR097"
 			(at 301.625 256.794 0)
 			(hide yes)
 			(show_name no)
@@ -43544,7 +44066,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR091")
+					(reference "#PWR097")
 					(unit 1)
 				)
 			)
@@ -43787,7 +44309,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "713d40a8-3ccd-47ea-9c34-66e9dc6ca10e")
-		(property "Reference" "#PWR0105"
+		(property "Reference" "#PWR0111"
 			(at 411.48 69.088 0)
 			(hide yes)
 			(show_name no)
@@ -43847,7 +44369,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR0105")
+					(reference "#PWR0111")
 					(unit 1)
 				)
 			)
@@ -44313,7 +44835,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 185.928 270.637 0)
+		(at 192.405 263.271 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -44322,8 +44844,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "75271ddf-836b-46c5-b707-5ed9fcdd9a68")
-		(property "Reference" "#PWR054"
-			(at 185.928 276.987 0)
+		(property "Reference" "#PWR056"
+			(at 192.405 269.621 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -44333,8 +44855,8 @@
 				)
 			)
 		)
-		(property "Value" "GND"
-			(at 185.928 274.066 0)
+		(property "Value" "TMPGND"
+			(at 192.405 266.7 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -44344,7 +44866,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 185.928 270.637 0)
+			(at 192.405 263.271 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -44355,7 +44877,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 185.928 270.637 0)
+			(at 192.405 263.271 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -44366,7 +44888,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 185.928 270.637 0)
+			(at 192.405 263.271 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -44382,7 +44904,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR054")
+					(reference "#PWR056")
 					(unit 1)
 				)
 			)
@@ -44400,7 +44922,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "76ca9b74-2aef-472a-bebc-8ddf0a7d45f9")
-		(property "Reference" "R32"
+		(property "Reference" "R33"
 			(at 254.635 339.471 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -44496,7 +45018,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "R32")
+					(reference "R33")
 					(unit 1)
 				)
 			)
@@ -44514,7 +45036,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "770d9161-feeb-43a2-b639-af82f929c0cd")
-		(property "Reference" "C56"
+		(property "Reference" "C58"
 			(at 326.517 264.541 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -44610,7 +45132,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C56")
+					(reference "C58")
 					(unit 1)
 				)
 			)
@@ -44627,7 +45149,7 @@
 		(in_pos_files yes)
 		(dnp yes)
 		(uuid "78064899-a6d9-4fd6-9e37-aa4525a9eec2")
-		(property "Reference" "R42"
+		(property "Reference" "R43"
 			(at 373.888 128.524 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -44721,7 +45243,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "R42")
+					(reference "R43")
 					(unit 1)
 				)
 			)
@@ -44840,7 +45362,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "78e6a9e5-998e-43e6-ac1a-d6240bf220ed")
-		(property "Reference" "C50"
+		(property "Reference" "C52"
 			(at 269.24 151.257 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -44936,7 +45458,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C50")
+					(reference "C52")
 					(unit 1)
 				)
 			)
@@ -45144,7 +45666,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7bc0d4ae-00f7-4dcf-b6cd-9535a309c25c")
-		(property "Reference" "R48"
+		(property "Reference" "R49"
 			(at 443.103 47.117 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -45240,7 +45762,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "R48")
+					(reference "R49")
 					(unit 1)
 				)
 			)
@@ -45447,7 +45969,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7e07466c-e0d1-45ed-a981-8b303a77a6ee")
-		(property "Reference" "C34"
+		(property "Reference" "C36"
 			(at 232.283 40.005 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -45543,7 +46065,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C34")
+					(reference "C36")
 					(unit 1)
 				)
 			)
@@ -45756,7 +46278,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8052bdd1-b0d8-43f3-a37f-2623e9c9af07")
-		(property "Reference" "C63"
+		(property "Reference" "C65"
 			(at 406.4 188.595 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -45852,7 +46374,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C63")
+					(reference "C65")
 					(unit 1)
 				)
 			)
@@ -45978,7 +46500,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "82d6a36c-c30f-4b05-9813-95a02a69e8ef")
-		(property "Reference" "#PWR0111"
+		(property "Reference" "#PWR0117"
 			(at 448.183 109.982 0)
 			(hide yes)
 			(show_name no)
@@ -46038,7 +46560,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR0111")
+					(reference "#PWR0117")
 					(unit 1)
 				)
 			)
@@ -46354,7 +46876,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8592743e-0512-4c41-9bc5-3da09aa8f67b")
-		(property "Reference" "R38"
+		(property "Reference" "R39"
 			(at 268.859 339.471 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -46450,7 +46972,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "R38")
+					(reference "R39")
 					(unit 1)
 				)
 			)
@@ -46581,7 +47103,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8788ad7e-9f96-453e-aecd-74eb999a9df2")
-		(property "Reference" "R37"
+		(property "Reference" "R38"
 			(at 266.446 169.926 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -46677,7 +47199,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "R37")
+					(reference "R38")
 					(unit 1)
 				)
 			)
@@ -46920,7 +47442,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "88f09738-2515-466c-85f0-e22c541ffdee")
-		(property "Reference" "R36"
+		(property "Reference" "R37"
 			(at 256.667 355.727 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -47016,7 +47538,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "R36")
+					(reference "R37")
 					(unit 1)
 				)
 			)
@@ -47033,7 +47555,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "89f0da54-2ff4-43a5-b17e-390daf4bb2f8")
-		(property "Reference" "#PWR0117"
+		(property "Reference" "#PWR0123"
 			(at 528.955 34.544 0)
 			(hide yes)
 			(show_name no)
@@ -47093,7 +47615,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR0117")
+					(reference "#PWR0123")
 					(unit 1)
 				)
 			)
@@ -47194,7 +47716,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8cf88462-3e37-401d-8eec-1788bfd12ba4")
-		(property "Reference" "#PWR085"
+		(property "Reference" "#PWR091"
 			(at 273.05 337.947 0)
 			(hide yes)
 			(show_name no)
@@ -47254,7 +47776,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR085")
+					(reference "#PWR091")
 					(unit 1)
 				)
 			)
@@ -47271,7 +47793,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8cff7cd8-e339-451d-a297-514c0b2221ad")
-		(property "Reference" "#PWR066"
+		(property "Reference" "#PWR070"
 			(at 227.965 351.155 0)
 			(hide yes)
 			(show_name no)
@@ -47331,7 +47853,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR066")
+					(reference "#PWR070")
 					(unit 1)
 				)
 			)
@@ -47348,7 +47870,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8eb9a0dc-b2b7-4aa5-ad34-4ef882fedaad")
-		(property "Reference" "#PWR090"
+		(property "Reference" "#PWR096"
 			(at 294.005 264.414 0)
 			(hide yes)
 			(show_name no)
@@ -47408,7 +47930,84 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR090")
+					(reference "#PWR096")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 229.997 279.146 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "90e06bf4-6b4e-4192-9cc7-127fe6bde7fa")
+		(property "Reference" "#PWR072"
+			(at 229.997 285.496 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 229.997 282.956 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 229.997 279.146 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 229.997 279.146 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 229.997 279.146 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "35df8adb-8131-4d7a-9afc-d135f09e7646")
+		)
+		(instances
+			(project "FlexLogicMini_EVB"
+				(path "/483d0913-2604-458a-955b-5458dee34109"
+					(reference "#PWR072")
 					(unit 1)
 				)
 			)
@@ -47503,7 +48102,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "911a5f4d-6fa8-4674-bb5d-8a41807aaac5")
-		(property "Reference" "C74"
+		(property "Reference" "C76"
 			(at 520.827 109.093 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -47599,7 +48198,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C74")
+					(reference "C76")
 					(unit 1)
 				)
 			)
@@ -47795,7 +48394,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9222add9-9d2f-436b-a7f2-13b22a72018c")
-		(property "Reference" "#PWR070"
+		(property "Reference" "#PWR076"
 			(at 249.555 339.471 0)
 			(hide yes)
 			(show_name no)
@@ -47855,7 +48454,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR070")
+					(reference "#PWR076")
 					(unit 1)
 				)
 			)
@@ -48322,7 +48921,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "94319cf3-0375-4a81-beda-9ac3f62db61b")
-		(property "Reference" "C45"
+		(property "Reference" "C47"
 			(at 258.699 291.338 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -48418,7 +49017,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C45")
+					(reference "C47")
 					(unit 1)
 				)
 			)
@@ -48664,7 +49263,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9630935e-3480-4b13-8a50-1bf13e16af27")
-		(property "Reference" "C61"
+		(property "Reference" "C63"
 			(at 377.444 187.452 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -48760,7 +49359,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C61")
+					(reference "C63")
 					(unit 1)
 				)
 			)
@@ -49056,7 +49655,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "99149154-3ae9-455d-a0f8-aa9d2c3028df")
-		(property "Reference" "C69"
+		(property "Reference" "C71"
 			(at 484.632 109.093 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -49152,7 +49751,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C69")
+					(reference "C71")
 					(unit 1)
 				)
 			)
@@ -49170,7 +49769,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "997eca8d-9340-4cac-bca1-d6ba6e3dc7bd")
-		(property "Reference" "R34"
+		(property "Reference" "R35"
 			(at 261.874 339.471 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -49266,7 +49865,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "R34")
+					(reference "R35")
 					(unit 1)
 				)
 			)
@@ -49283,7 +49882,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9bcfee77-2e80-43f8-83df-e6d9a6f5c2f6")
-		(property "Reference" "#PWR079"
+		(property "Reference" "#PWR085"
 			(at 266.192 57.277 0)
 			(hide yes)
 			(show_name no)
@@ -49343,7 +49942,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR079")
+					(reference "#PWR085")
 					(unit 1)
 				)
 			)
@@ -49360,7 +49959,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9ce95fc1-5091-4b73-ae88-3380e9315ab8")
-		(property "Reference" "C53"
+		(property "Reference" "C55"
 			(at 278.384 264.795 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -49456,7 +50055,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C53")
+					(reference "C55")
 					(unit 1)
 				)
 			)
@@ -49474,7 +50073,7 @@
 		(dnp no)
 		(uuid "9d8f9a8c-fede-44a3-9567-7541a444b63e")
 		(property "Reference" "J9"
-			(at 147.828 338.074 0)
+			(at 147.574 339.217 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -49484,7 +50083,7 @@
 			)
 		)
 		(property "Value" "Conn_02x03_Odd_Even"
-			(at 160.401 338.074 0)
+			(at 142.494 349.885 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -49647,7 +50246,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a049dddc-bc2a-4898-9c88-fdbb3fadd336")
-		(property "Reference" "#PWR097"
+		(property "Reference" "#PWR0103"
 			(at 374.269 314.198 0)
 			(hide yes)
 			(show_name no)
@@ -49707,7 +50306,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR097")
+					(reference "#PWR0103")
 					(unit 1)
 				)
 			)
@@ -49837,7 +50436,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a3e2e2d1-b40f-4769-93c5-6952cdfcf85e")
-		(property "Reference" "C39"
+		(property "Reference" "C41"
 			(at 258.191 373.253 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -49939,7 +50538,7 @@
 			)
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C39")
+					(reference "C41")
 					(unit 1)
 				)
 			)
@@ -50171,7 +50770,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a5b02b5d-9589-4597-812c-2ec02344efe4")
-		(property "Reference" "#PWR053"
+		(property "Reference" "#PWR054"
 			(at 179.705 53.213 0)
 			(hide yes)
 			(show_name no)
@@ -50231,7 +50830,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR053")
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
@@ -50333,7 +50932,7 @@
 	)
 	(symbol
 		(lib_id "MTS4P:MTS4P")
-		(at 183.896 259.207 0)
+		(at 190.373 251.841 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -50343,7 +50942,7 @@
 		(dnp no)
 		(uuid "a6c5cdd7-e7af-4c94-a0e9-e5aa80561592")
 		(property "Reference" "IC3"
-			(at 189.484 253.111 0)
+			(at 195.961 245.745 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -50353,7 +50952,7 @@
 			)
 		)
 		(property "Value" "MTS4P"
-			(at 190.754 255.397 0)
+			(at 197.231 248.031 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -50363,7 +50962,7 @@
 			)
 		)
 		(property "Footprint" "MTS4P:MTS4P"
-			(at 194.056 252.857 0)
+			(at 200.533 245.491 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -50375,7 +50974,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2312012011_Mysentech-MTS4P_C19284877.pdf"
-			(at 183.896 259.207 0)
+			(at 190.373 251.841 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -50386,7 +50985,7 @@
 			)
 		)
 		(property "Description" "-103℃~+153℃ ±0.1℃ DFN-4L(1.6x1.2) Temperature Sensors ROHS"
-			(at 195.326 255.397 0)
+			(at 201.803 248.031 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -50398,7 +50997,7 @@
 			)
 		)
 		(property "MANUFACTURER_NAME" "Mysentech"
-			(at 204.216 247.777 0)
+			(at 210.693 240.411 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -50410,7 +51009,7 @@
 			)
 		)
 		(property "MOUSER_PRICE-STOCK" ""
-			(at 183.896 259.207 0)
+			(at 190.373 251.841 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -50422,7 +51021,7 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
-			(at 183.896 259.207 0)
+			(at 190.373 251.841 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -50434,7 +51033,7 @@
 			)
 		)
 		(property "HEIGHT" "1.35mm"
-			(at 197.866 250.317 0)
+			(at 204.343 242.951 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -50446,7 +51045,7 @@
 			)
 		)
 		(property "ARROW_PRICE-STOCK" ""
-			(at 183.896 259.207 0)
+			(at 190.373 251.841 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -50458,7 +51057,7 @@
 			)
 		)
 		(property "ARROW_PART_NUMBER" ""
-			(at 183.896 259.207 0)
+			(at 190.373 251.841 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -50470,7 +51069,7 @@
 			)
 		)
 		(property "MANUFACTURER_PART_NUMBER" "MTS4P"
-			(at 195.326 247.777 0)
+			(at 201.803 240.411 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -50482,7 +51081,7 @@
 			)
 		)
 		(property "JLCPCB" "C19284877"
-			(at 183.896 259.207 0)
+			(at 190.373 251.841 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -50908,7 +51507,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a92a85ec-62f2-4321-a91c-d3ecc593d1bc")
-		(property "Reference" "C70"
+		(property "Reference" "C72"
 			(at 491.617 109.093 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -51004,7 +51603,84 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C70")
+					(reference "C72")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 200.025 279.146 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "a9547f7c-94b0-492b-92fd-42f33018709f")
+		(property "Reference" "#PWR059"
+			(at 200.025 285.496 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 200.025 282.956 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 200.025 279.146 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 200.025 279.146 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 200.025 279.146 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "aec8fdc5-1e53-42ae-b872-fa89604c91a8")
+		)
+		(instances
+			(project "FlexLogicMini_EVB"
+				(path "/483d0913-2604-458a-955b-5458dee34109"
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -51021,7 +51697,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a98109ea-d883-4ffe-8e5e-187044627e91")
-		(property "Reference" "R41"
+		(property "Reference" "R42"
 			(at 268.478 322.58 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -51117,7 +51793,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "R41")
+					(reference "R42")
 					(unit 1)
 				)
 			)
@@ -51134,7 +51810,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "aa361f31-571c-4a6e-9f55-ef2ea36fad62")
-		(property "Reference" "#PWR089"
+		(property "Reference" "#PWR095"
 			(at 291.465 397.383 0)
 			(hide yes)
 			(show_name no)
@@ -51200,7 +51876,120 @@
 			)
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR089")
+					(reference "#PWR095")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 219.329 277.368 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "aada8ea7-26c1-42db-ab82-3065a86f3653")
+		(property "Reference" "C31"
+			(at 217.678 275.971 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.01uF"
+			(at 218.059 278.765 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+			(at 219.329 277.368 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 219.329 277.368 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 219.329 277.368 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "耐圧" "25V"
+			(at 222.377 279.019 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB" "C285010"
+			(at 219.329 277.368 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "0201B103K250NT"
+			(at 219.329 277.368 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e3e5d916-5f98-4c71-afba-2137021287e1")
+		)
+		(pin "2"
+			(uuid "c8e048f9-f8b9-4149-aec4-552ed37591ff")
+		)
+		(instances
+			(project "FlexLogicMini_EVB"
+				(path "/483d0913-2604-458a-955b-5458dee34109"
+					(reference "C31")
 					(unit 1)
 				)
 			)
@@ -51301,7 +52090,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ae7c8541-978a-4c34-be6e-824a2efe2ffd")
-		(property "Reference" "#PWR064"
+		(property "Reference" "#PWR068"
 			(at 225.425 53.975 0)
 			(hide yes)
 			(show_name no)
@@ -51367,7 +52156,7 @@
 			)
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR064")
+					(reference "#PWR068")
 					(unit 1)
 				)
 			)
@@ -51503,7 +52292,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "af1c3e53-f17f-4fb8-9b4f-2d8f8c460a3b")
-		(property "Reference" "C57"
+		(property "Reference" "C59"
 			(at 323.723 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -51599,7 +52388,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C57")
+					(reference "C59")
 					(unit 1)
 				)
 			)
@@ -51708,6 +52497,83 @@
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
 					(reference "U3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 178.689 279.146 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b034f579-79da-4608-a300-2925c680ec57")
+		(property "Reference" "#PWR052"
+			(at 178.689 285.496 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TMPGND"
+			(at 178.689 282.575 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 178.689 279.146 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 178.689 279.146 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 178.689 279.146 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0e60dae9-d286-47a2-a46b-c4666c3c500e")
+		)
+		(instances
+			(project "FlexLogicMini_EVB"
+				(path "/483d0913-2604-458a-955b-5458dee34109"
+					(reference "#PWR052")
 					(unit 1)
 				)
 			)
@@ -51838,7 +52704,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b1c2d7a7-e63e-455f-9577-26a7c03692dd")
-		(property "Reference" "R30"
+		(property "Reference" "R31"
 			(at 234.696 205.994 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -51934,7 +52800,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "R30")
+					(reference "R31")
 					(unit 1)
 				)
 			)
@@ -51951,7 +52817,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b37aab5b-dc31-4906-9efa-44ff781ca7db")
-		(property "Reference" "#PWR074"
+		(property "Reference" "#PWR080"
 			(at 257.302 91.694 0)
 			(hide yes)
 			(show_name no)
@@ -52011,7 +52877,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR074")
+					(reference "#PWR080")
 					(unit 1)
 				)
 			)
@@ -52028,7 +52894,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b3b01ae6-3d1d-4ac7-86a4-8b3914da6074")
-		(property "Reference" "R50"
+		(property "Reference" "R51"
 			(at 493.776 124.841 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -52124,7 +52990,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "R50")
+					(reference "R51")
 					(unit 1)
 				)
 			)
@@ -52429,7 +53295,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b807d2a0-b4bf-45ed-8cfc-7f3c0c856b17")
-		(property "Reference" "#PWR094"
+		(property "Reference" "#PWR0100"
 			(at 320.675 151.003 0)
 			(hide yes)
 			(show_name no)
@@ -52495,7 +53361,7 @@
 			)
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR094")
+					(reference "#PWR0100")
 					(unit 1)
 				)
 			)
@@ -52512,7 +53378,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b8db4a33-2d53-4f89-bacb-ca483b4b515c")
-		(property "Reference" "C49"
+		(property "Reference" "C51"
 			(at 268.224 292.1 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -52608,7 +53474,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C49")
+					(reference "C51")
 					(unit 1)
 				)
 			)
@@ -52625,7 +53491,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ba1604e7-f8b5-470e-91af-6a57448bcc03")
-		(property "Reference" "C48"
+		(property "Reference" "C50"
 			(at 264.414 256.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -52721,7 +53587,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C48")
+					(reference "C50")
 					(unit 1)
 				)
 			)
@@ -52738,7 +53604,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ba6683aa-f9aa-4799-8c8b-b2ba4f8c1e0b")
-		(property "Reference" "#PWR069"
+		(property "Reference" "#PWR075"
 			(at 240.157 218.567 0)
 			(hide yes)
 			(show_name no)
@@ -52798,7 +53664,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR069")
+					(reference "#PWR075")
 					(unit 1)
 				)
 			)
@@ -52928,7 +53794,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bc409aa6-b160-4e5a-9ac1-fb7262a46277")
-		(property "Reference" "#PWR0103"
+		(property "Reference" "#PWR0109"
 			(at 403.86 200.025 0)
 			(hide yes)
 			(show_name no)
@@ -52994,7 +53860,7 @@
 			)
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR0103")
+					(reference "#PWR0109")
 					(unit 1)
 				)
 			)
@@ -53114,7 +53980,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bdbbe44f-5b7b-40e6-938d-1cb7e8dccd98")
-		(property "Reference" "C75"
+		(property "Reference" "C77"
 			(at 527.431 109.22 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -53210,7 +54076,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C75")
+					(reference "C77")
 					(unit 1)
 				)
 			)
@@ -53227,7 +54093,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "be923db9-f249-4a42-b1f6-7b91167f8856")
-		(property "Reference" "#PWR060"
+		(property "Reference" "#PWR061"
 			(at 207.391 59.817 0)
 			(hide yes)
 			(show_name no)
@@ -53287,7 +54153,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR060")
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -54008,7 +54874,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c3c19637-9f64-42ca-a786-88851a937493")
-		(property "Reference" "#PWR075"
+		(property "Reference" "#PWR081"
 			(at 257.302 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -54068,7 +54934,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR075")
+					(reference "#PWR081")
 					(unit 1)
 				)
 			)
@@ -54086,7 +54952,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c3e5f9e9-f63b-4079-9fa7-6b60d88c1689")
-		(property "Reference" "R39"
+		(property "Reference" "R40"
 			(at 272.923 169.545 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -54182,7 +55048,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "R39")
+					(reference "R40")
 					(unit 1)
 				)
 			)
@@ -54303,6 +55169,83 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 208.788 288.798 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "c7d73086-0997-40cd-9c8d-a86b68da5572")
+		(property "Reference" "#PWR064"
+			(at 208.788 295.148 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TMPGND"
+			(at 208.788 292.227 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 208.788 288.798 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 208.788 288.798 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 208.788 288.798 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "46fcf793-0a36-4f77-8c17-55fff353e86f")
+		)
+		(instances
+			(project "FlexLogicMini_EVB"
+				(path "/483d0913-2604-458a-955b-5458dee34109"
+					(reference "#PWR064")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 274.701 264.922 0)
 		(unit 1)
 		(body_style 1)
@@ -54312,7 +55255,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c7db6b86-9995-4b49-881d-97044946b03f")
-		(property "Reference" "#PWR087"
+		(property "Reference" "#PWR093"
 			(at 274.701 271.272 0)
 			(hide yes)
 			(show_name no)
@@ -54372,7 +55315,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR087")
+					(reference "#PWR093")
 					(unit 1)
 				)
 			)
@@ -54389,7 +55332,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c8f9ae95-f40f-4633-a463-aefb30cba7bc")
-		(property "Reference" "C64"
+		(property "Reference" "C66"
 			(at 418.719 109.347 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -54485,7 +55428,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C64")
+					(reference "C66")
 					(unit 1)
 				)
 			)
@@ -54615,7 +55558,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c9bca39c-224d-41b5-909a-e52d2276fc81")
-		(property "Reference" "R31"
+		(property "Reference" "R32"
 			(at 238.76 170.942 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -54711,7 +55654,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "R31")
+					(reference "R32")
 					(unit 1)
 				)
 			)
@@ -54729,7 +55672,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "caa86eed-3072-4e6a-904e-d99a7605e65d")
-		(property "Reference" "C59"
+		(property "Reference" "C61"
 			(at 339.217 264.541 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -54825,7 +55768,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C59")
+					(reference "C61")
 					(unit 1)
 				)
 			)
@@ -54955,7 +55898,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cb2f9bdd-ecfd-4a53-8dd1-572350f0535a")
-		(property "Reference" "C73"
+		(property "Reference" "C75"
 			(at 513.842 109.093 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -55051,7 +55994,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C73")
+					(reference "C75")
 					(unit 1)
 				)
 			)
@@ -55361,7 +56304,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cc6eb379-e4d7-42f9-95a8-592f51b88927")
-		(property "Reference" "#PWR067"
+		(property "Reference" "#PWR071"
 			(at 227.965 363.728 0)
 			(hide yes)
 			(show_name no)
@@ -55427,7 +56370,7 @@
 			)
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR067")
+					(reference "#PWR071")
 					(unit 1)
 				)
 			)
@@ -55521,7 +56464,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d2ae940a-a334-4821-8239-96139fd6c023")
-		(property "Reference" "R35"
+		(property "Reference" "R36"
 			(at 252.73 170.815 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -55617,7 +56560,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "R35")
+					(reference "R36")
 					(unit 1)
 				)
 			)
@@ -55634,7 +56577,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d344b32d-6421-4c91-9c18-23199a61419c")
-		(property "Reference" "C37"
+		(property "Reference" "C39"
 			(at 244.475 151.511 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -55730,7 +56673,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C37")
+					(reference "C39")
 					(unit 1)
 				)
 			)
@@ -55861,7 +56804,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d5505ad5-0570-480f-950b-13dd1fafc5c8")
-		(property "Reference" "#PWR052"
+		(property "Reference" "#PWR053"
 			(at 178.943 100.965 0)
 			(hide yes)
 			(show_name no)
@@ -55921,7 +56864,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR052")
+					(reference "#PWR053")
 					(unit 1)
 				)
 			)
@@ -56319,7 +57262,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d8dc5e5a-569c-4c66-bf61-55003b2f88ea")
-		(property "Reference" "#PWR081"
+		(property "Reference" "#PWR087"
 			(at 266.192 98.171 0)
 			(hide yes)
 			(show_name no)
@@ -56379,7 +57322,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR081")
+					(reference "#PWR087")
 					(unit 1)
 				)
 			)
@@ -56509,7 +57452,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d998931a-0557-46d5-8ef9-44ddd207c121")
-		(property "Reference" "R43"
+		(property "Reference" "R44"
 			(at 410.083 209.804 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -56605,7 +57548,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "R43")
+					(reference "R44")
 					(unit 1)
 				)
 			)
@@ -56801,7 +57744,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "daa10e35-77f8-4bea-9e0a-7cc9524b5736")
-		(property "Reference" "C36"
+		(property "Reference" "C38"
 			(at 238.379 151.511 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -56897,7 +57840,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C36")
+					(reference "C38")
 					(unit 1)
 				)
 			)
@@ -57027,7 +57970,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "db6e3bc2-b4f0-4fda-a471-71932e2e66bc")
-		(property "Reference" "#PWR0107"
+		(property "Reference" "#PWR0113"
 			(at 433.07 36.195 0)
 			(hide yes)
 			(show_name no)
@@ -57087,7 +58030,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR0107")
+					(reference "#PWR0113")
 					(unit 1)
 				)
 			)
@@ -57095,7 +58038,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 196.469 269.494 270)
+		(at 202.946 262.128 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -57105,7 +58048,7 @@
 		(dnp no)
 		(uuid "dd161cdd-2188-4cef-a86c-e47a5393613b")
 		(property "Reference" "C30"
-			(at 192.405 268.097 90)
+			(at 197.993 260.731 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -57116,7 +58059,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 197.866 268.478 90)
+			(at 204.343 261.112 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -57127,7 +58070,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
-			(at 196.469 269.494 0)
+			(at 202.946 262.128 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -57138,7 +58081,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 196.469 269.494 0)
+			(at 202.946 262.128 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -57149,7 +58092,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 196.469 269.494 0)
+			(at 202.946 262.128 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -57160,7 +58103,7 @@
 			)
 		)
 		(property "耐圧" "25V"
-			(at 193.929 271.653 90)
+			(at 200.406 264.287 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -57170,7 +58113,7 @@
 			)
 		)
 		(property "JLCPCB" "C76939"
-			(at 196.469 269.494 0)
+			(at 202.946 262.128 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -57181,7 +58124,7 @@
 			)
 		)
 		(property "MANUFACTURER_PART_NUMBER" "GRM033R61E104KE14D"
-			(at 196.469 269.494 0)
+			(at 202.946 262.128 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -57295,7 +58238,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e0b4985d-e977-43ce-ad88-dff45e8953fd")
-		(property "Reference" "#PWR0118"
+		(property "Reference" "#PWR0124"
 			(at 527.939 154.305 0)
 			(hide yes)
 			(show_name no)
@@ -57355,7 +58298,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR0118")
+					(reference "#PWR0124")
 					(unit 1)
 				)
 			)
@@ -57372,7 +58315,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e10c7fd2-c34e-47d3-8725-4fe630323c91")
-		(property "Reference" "#PWR077"
+		(property "Reference" "#PWR083"
 			(at 266.192 38.608 0)
 			(hide yes)
 			(show_name no)
@@ -57432,7 +58375,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR077")
+					(reference "#PWR083")
 					(unit 1)
 				)
 			)
@@ -57449,7 +58392,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e148665d-d9df-410a-8276-26976a218b6e")
-		(property "Reference" "C31"
+		(property "Reference" "C33"
 			(at 225.933 40.005 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -57545,7 +58488,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C31")
+					(reference "C33")
 					(unit 1)
 				)
 			)
@@ -57960,7 +58903,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e670c698-65a9-4880-ae5e-ff6575fc7fd8")
-		(property "Reference" "#PWR0115"
+		(property "Reference" "#PWR0121"
 			(at 494.665 55.753 0)
 			(hide yes)
 			(show_name no)
@@ -58020,7 +58963,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR0115")
+					(reference "#PWR0121")
 					(unit 1)
 				)
 			)
@@ -58873,7 +59816,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ec2d6fe8-7265-4e62-8bfb-b4815a50719b")
-		(property "Reference" "#PWR0102"
+		(property "Reference" "#PWR0108"
 			(at 405.511 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -58933,7 +59876,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR0102")
+					(reference "#PWR0108")
 					(unit 1)
 				)
 			)
@@ -58950,7 +59893,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ed206643-12b8-4da5-ba2b-4a5ee809b470")
-		(property "Reference" "#PWR078"
+		(property "Reference" "#PWR084"
 			(at 266.192 50.927 0)
 			(hide yes)
 			(show_name no)
@@ -59010,7 +59953,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR078")
+					(reference "#PWR084")
 					(unit 1)
 				)
 			)
@@ -59236,7 +60179,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ee5c4a14-b74f-4513-ade5-5b2f71a8b665")
-		(property "Reference" "R26"
+		(property "Reference" "R27"
 			(at 195.453 165.608 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -59332,7 +60275,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "R26")
+					(reference "R27")
 					(unit 1)
 				)
 			)
@@ -59659,7 +60602,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ef7e06a1-9600-48a5-8f0a-755134eb2c3f")
-		(property "Reference" "C68"
+		(property "Reference" "C70"
 			(at 481.203 108.966 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -59755,7 +60698,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C68")
+					(reference "C70")
 					(unit 1)
 				)
 			)
@@ -59772,7 +60715,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ef933706-2c9f-41d2-bcd1-37850aae992e")
-		(property "Reference" "#PWR086"
+		(property "Reference" "#PWR092"
 			(at 274.066 389.509 0)
 			(hide yes)
 			(show_name no)
@@ -59832,7 +60775,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR086")
+					(reference "#PWR092")
 					(unit 1)
 				)
 			)
@@ -60045,7 +60988,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f1a86a64-7c8b-4c20-8c26-57f1da6d8e2d")
-		(property "Reference" "#PWR072"
+		(property "Reference" "#PWR078"
 			(at 255.778 290.068 0)
 			(hide yes)
 			(show_name no)
@@ -60105,7 +61048,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR072")
+					(reference "#PWR078")
 					(unit 1)
 				)
 			)
@@ -60235,7 +61178,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f2451922-d4cf-474a-9da2-e55b4db051fb")
-		(property "Reference" "C51"
+		(property "Reference" "C53"
 			(at 270.256 256.667 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -60331,7 +61274,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C51")
+					(reference "C53")
 					(unit 1)
 				)
 			)
@@ -60348,7 +61291,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f25ecda4-220d-4b9c-ba89-b966159b0b75")
-		(property "Reference" "#PWR0101"
+		(property "Reference" "#PWR0107"
 			(at 396.748 210.058 0)
 			(hide yes)
 			(show_name no)
@@ -60408,7 +61351,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR0101")
+					(reference "#PWR0107")
 					(unit 1)
 				)
 			)
@@ -60425,7 +61368,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f29a1f03-be79-4da7-a0a2-f66428cce95c")
-		(property "Reference" "#PWR0106"
+		(property "Reference" "#PWR0112"
 			(at 424.688 219.71 0)
 			(hide yes)
 			(show_name no)
@@ -60491,7 +61434,7 @@
 			)
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR0106")
+					(reference "#PWR0112")
 					(unit 1)
 				)
 			)
@@ -60508,7 +61451,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f2b1e48d-0f48-401c-bd87-1159a534ee74")
-		(property "Reference" "R52"
+		(property "Reference" "R53"
 			(at 515.112 44.704 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -60604,7 +61547,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "R52")
+					(reference "R53")
 					(unit 1)
 				)
 			)
@@ -61020,7 +61963,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f70c65c9-974b-4c27-8046-4f13f4332e63")
-		(property "Reference" "#PWR062"
+		(property "Reference" "#PWR065"
 			(at 214.249 224.155 0)
 			(hide yes)
 			(show_name no)
@@ -61080,7 +62023,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR062")
+					(reference "#PWR065")
 					(unit 1)
 				)
 			)
@@ -61097,7 +62040,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f83fffff-5fdc-4d30-8964-e1193000f05e")
-		(property "Reference" "C35"
+		(property "Reference" "C37"
 			(at 232.156 151.638 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -61193,7 +62136,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "C35")
+					(reference "C37")
 					(unit 1)
 				)
 			)
@@ -61379,7 +62322,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fc7f3d29-1f1c-477b-be87-e21336fffc4b")
-		(property "Reference" "#PWR095"
+		(property "Reference" "#PWR0101"
 			(at 341.122 279.019 0)
 			(hide yes)
 			(show_name no)
@@ -61439,7 +62382,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR095")
+					(reference "#PWR0101")
 					(unit 1)
 				)
 			)
@@ -61456,7 +62399,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fda1d93c-29ec-4f2e-ab12-63d02d05e7f1")
-		(property "Reference" "#PWR059"
+		(property "Reference" "#PWR060"
 			(at 206.375 152.273 0)
 			(hide yes)
 			(show_name no)
@@ -61516,7 +62459,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR059")
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -61610,7 +62553,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ffa92b7a-6fe3-4f13-81d3-412ca59eaee2")
-		(property "Reference" "#PWR098"
+		(property "Reference" "#PWR0104"
 			(at 375.92 187.325 0)
 			(hide yes)
 			(show_name no)
@@ -61676,7 +62619,7 @@
 			)
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109"
-					(reference "#PWR098")
+					(reference "#PWR0104")
 					(unit 1)
 				)
 			)

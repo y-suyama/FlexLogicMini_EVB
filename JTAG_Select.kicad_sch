@@ -7555,7 +7555,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4d1d956d-7aca-4eeb-b17f-8232fdfdf9dc")
-		(property "Reference" "C77"
+		(property "Reference" "C79"
 			(at 191.008 93.091 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7651,7 +7651,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109/5b1eb57d-d000-4da8-a3b9-023ba32e6541"
-					(reference "C77")
+					(reference "C79")
 					(unit 1)
 				)
 			)
@@ -7669,7 +7669,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8675a949-77f6-4b6e-a9d0-57b1cb94e611")
-		(property "Reference" "#PWR0123"
+		(property "Reference" "#PWR0129"
 			(at 186.563 104.521 0)
 			(hide yes)
 			(show_name no)
@@ -7729,7 +7729,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109/5b1eb57d-d000-4da8-a3b9-023ba32e6541"
-					(reference "#PWR0123")
+					(reference "#PWR0129")
 					(unit 1)
 				)
 			)
@@ -7747,7 +7747,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "976e98e5-64bf-44f7-82be-9ee22082a796")
-		(property "Reference" "#PWR0122"
+		(property "Reference" "#PWR0128"
 			(at 178.689 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -7807,7 +7807,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109/5b1eb57d-d000-4da8-a3b9-023ba32e6541"
-					(reference "#PWR0122")
+					(reference "#PWR0128")
 					(unit 1)
 				)
 			)
@@ -7824,7 +7824,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a242e200-fd23-46d0-bede-e6f5762b1c34")
-		(property "Reference" "#PWR0121"
+		(property "Reference" "#PWR0127"
 			(at 178.689 93.472 0)
 			(hide yes)
 			(show_name no)
@@ -7884,7 +7884,7 @@
 		(instances
 			(project "FlexLogicMini_EVB"
 				(path "/483d0913-2604-458a-955b-5458dee34109/5b1eb57d-d000-4da8-a3b9-023ba32e6541"
-					(reference "#PWR0121")
+					(reference "#PWR0127")
 					(unit 1)
 				)
 			)

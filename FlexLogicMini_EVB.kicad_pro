@@ -637,7 +637,7 @@
       "method": 0,
       "sort_order": 0
     },
-    "bom_export_filename": "FlexLogicMini_EVB_BOM.csv",
+    "bom_export_filename": "${PROJECTNAME}.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -716,12 +716,6 @@
           "group_by": false,
           "label": "Arrow Price/Stock",
           "name": "Arrow Price/Stock",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "DESCRIPTION",
-          "name": "DESCRIPTION",
           "show": false
         },
         {
@@ -849,6 +843,66 @@
           "label": "ARROW_PART_NUMBER",
           "name": "ARROW_PART_NUMBER",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "name",
+          "name": "name",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "nameAlias",
+          "name": "nameAlias",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "package",
+          "name": "package",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Contributor",
+          "name": "Contributor",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "JLCPCB Part Class",
+          "name": "JLCPCB Part Class",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "電力",
+          "name": "電力",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer",
+          "name": "Manufacturer",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer Part",
+          "name": "Manufacturer Part",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Supplier",
+          "name": "Supplier",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Supplier Part",
+          "name": "Supplier Part",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -907,7 +961,7 @@
         "uuid": "483d0913-2604-458a-955b-5458dee34109"
       }
     ],
-    "used_designators": "RN1-4,D1-2,#PWR1-124,#PWR137,IC1-5,R1-55,R66-69,R72-77,#FLG1-9,J1-14,C1-77,L1-8,S1,SW1,TP1-2,U1-11",
+    "used_designators": "RN1-4,D1-2,#PWR1-129,#PWR137,#PWR336-337,IC1-5,R1-56,R65-69,R72-77,#FLG1-9,J1-14,C1-79,C207,L1-8,S1,SW1,TP1-2,U1-11",
     "variants": []
   },
   "sheets": [
